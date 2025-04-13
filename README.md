@@ -13,10 +13,10 @@ Welcome to the official repository for **Cigarette After Sex** – a heartfelt t
 ## 🖼️ Screenshots
 
 ### 🌐 Web View – Desktop layout showcasing the homepage
-![Web View](/images/web-view.png)
+![Web View](/images/web-version.png)
 
 ### 📱 Mobile View – Responsive design on mobile
-![Mobile View](/images/mobile-view.png)
+![Mobile View](/images/mobile-version.png)
 
 ---
 
