@@ -1,16 +1,21 @@
-```markdown
-# 🌌 Cigarette After Sex
+# 🌌 Cigarette After Sex 🖤
 
 Welcome to the official repository for **Cigarette After Sex** – a heartfelt tribute to the moments we shared. This project brings together web and mobile designs that reflect the beauty of simplicity and elegance.
 
 ---
 
+## 🔗 Live Demo
+
+[View Project Live](https://your-live-link-here.com) <!-- Replace with actual link when available -->
+
+---
+
 ## 🖼️ Screenshots
 
-### 🌐 Web View
+### 🌐 Web View – Desktop layout showcasing the homepage
 ![Web View](images/web-view.png)
 
-### 📱 Mobile View
+### 📱 Mobile View – Responsive design on mobile
 ![Mobile View](images/mobile-view.png)
 
 ---
@@ -42,42 +47,3 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/wa4lo7k/cigarette-after-sex.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd cigarette-after-sex
-   ```
-3. Open the project in your code editor and start a live server to view it in action.
-
----
-
-## 📂 Project Structure
-
-```plaintext
-cigarette-after-sex/
-├── images/       # Contains web and mobile view screenshots
-├── index.html    # Main HTML file
-├── styles.css    # Main CSS file
-└── README.md     # Project description
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue to enhance this project.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ✨ Acknowledgments
-
-- Inspired by shared moments and the beauty of simplicity.
-- Thanks to the open-source community for tools and resources.
-
----
